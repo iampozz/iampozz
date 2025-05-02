@@ -4,4 +4,4 @@
 - 📫 How to reach me -> on LinkdIn: https://www.linkedin.com/in/massimo-pozzobon/ or by e-mail: pozzo.massi@gmail.com
 - ⚡ Fun fact -> DJ and Mixology lover
 
-:exclamation: **Below you can find a repositary titled "PortfolioCodeHub" that contains some of my personal project in Python and MATLAB** :exclamation:
+:exclamation: **Below you can find a repositary titled "PortfolioCodeHub" and "QuantProjects" that contains some of my personal project in Python and MATLAB** :exclamation:
